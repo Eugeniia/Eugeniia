@@ -3,15 +3,6 @@
 
 Currently, I'm doing research in Justin O’Sullivan “Genomics and System Biology” lab group, where we’re trying to understand the role of genetics and epigenetics in the development of complex traits. In particular, I'm developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occuring traits.
 
-### **Summary:**
-
-- 7 years of experience in data science
-- Broad knowledge in health science, genetics, molecular biology and biochemistry
-- Programming experience in R, Python, Matlab, Bash
-- Excellent organizational, writing, communication and presentation skills
-- High motivation to get things done
-- Ability to work in team and independently
-
 ### **Contact information:**
 
 - Email: Jn.Golovina@gmail.com, e.golovina@auckland.ac.nz
