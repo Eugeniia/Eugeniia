@@ -1,9 +1,9 @@
 ## Evgeniia Golovina, PhD
-#### Postdoctoral Fellow at the Liggins Institute, University of Auckland, New Zealand
+### Postdoctoral Fellow at the Liggins Institute, University of Auckland, New Zealand
 
 Currently, I'm doing research in Justin O’Sullivan “Genomics and System Biology” lab group, where we’re trying to understand the role of genetics and epigenetics in the development of complex traits. In particular, I'm developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occuring traits.
 
-### **Contact information:**
+#### **Contact information:**
 
 - Email: Jn.Golovina@gmail.com, e.golovina@auckland.ac.nz
 - Linkedin: [https://www.linkedin.com/in/evgeniiagolovina/](https://www.linkedin.com/in/evgeniiagolovina/)
