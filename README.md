@@ -5,7 +5,6 @@ Currently, I'm doing research in Justin O’Sullivan “Genomics and System Biol
 
 ### **Contact information:**
 
-- Email: Jn.Golovina@gmail.com, e.golovina@auckland.ac.nz
 - [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/)
 - [Github](https://github.com/Eugeniia)
 - [Twitter](https://twitter.com/FoffaJn)
