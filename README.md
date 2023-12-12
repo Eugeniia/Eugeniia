@@ -1,14 +1,32 @@
-## Evgeniia Golovina, PhD
-### Postdoctoral Fellow at the Liggins Institute, University of Auckland, New Zealand
+<h1 align="center">Hi 👋, I'm Evgeniia</h1>
+<h3 align="center">I'm a Postdoctoral Research Fellow at Liggins Institute, University of Auckland, New Zealand!</h3>
 
-Currently, I'm doing research in Justin O’Sullivan “Genomics and System Biology” lab group, where we’re trying to understand the role of genetics and epigenetics in the development of complex traits. In particular, I'm developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occuring traits.
+- 😎 I'm currently doing research in Justin O’Sullivan’s “Genomics and System Biology” lab group and developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occurring traits.
 
-### **Contact information:**
+- 🙏 Check out my research projects: [psychiatric_and_cognitive_multimorbidities](https://github.com/Genome3d/psychiatric_and_cognitive_multimorbidities), [alcohol-dependence](https://github.com/Genome3d/alcohol-dependence), [genetic_regulation_in_ASD](https://github.com/Genome3d/genetic_regulation_in_ASD) and [genetic_regulation_in_COPD](https://github.com/Genome3d/genetic_regulation_in_COPD).
 
-- [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/)
-- [Github](https://github.com/Eugeniia)
-- [Twitter](https://twitter.com/FoffaJn)
-- [ResearchGate](https://www.researchgate.net/profile/Evgeniia_Golovina2)
-- [Google Scholar](https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1)
-- [Publons](https://publons.com/researcher/4650922/evgeniia-golovina/)
-- [ORCiD](https://orcid.org/0000-0001-7593-5124)
+- 🌹 My online resume is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/)
+
+- 🔥 I’m currently learning Chinese language and AI.
+
+- 😈 Fun fact: my friends call me Killer, because sometimes I crash servers when analyzing big data.
+
+- 🧡 The best ways to reach me out: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [Github](https://github.com/Eugeniia), [Twitter](https://twitter.com/FoffaJn), [ResearchGate](https://www.researchgate.net/profile/Evgeniia_Golovina2), [Google Scholar](https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1)
+
+
+<!--
+**sproogen/sproogen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sproogen&show_icons=true&locale=en" alt="sproogen" /></p>
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
