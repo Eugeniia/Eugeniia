@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Evgeniia Golovina, PhD</h1>
+<h1 align="center">Hi 👋 I'm Evgeniia Golovina</h1>
 <h3 align="center">Health Scientist | Data Science Enthusiast | Mentor</h3>
 
 😎  Currently I'm developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occurring traits.
