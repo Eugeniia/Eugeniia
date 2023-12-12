@@ -3,11 +3,11 @@
 
 😎  Currently I'm developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occurring traits.
 
-🙏  Check out my research projects: [psychiatric_and_cognitive_multimorbidities](https://github.com/Genome3d/psychiatric_and_cognitive_multimorbidities), [alcohol-dependence](https://github.com/Genome3d/alcohol-dependence), [genetic_regulation_in_ASD](https://github.com/Genome3d/genetic_regulation_in_ASD) and [genetic_regulation_in_COPD](https://github.com/Genome3d/genetic_regulation_in_COPD).
+🙏  Check out my research projects: [psychiatric_and_cognitive_multimorbidities](https://github.com/Genome3d/psychiatric_and_cognitive_multimorbidities), [alcohol-dependence](https://github.com/Genome3d/alcohol-dependence), [genetic_regulation_in_ASD](https://github.com/Genome3d/genetic_regulation_in_ASD), [ADH_and_ALDH_regulatory_networks](https://github.com/Genome3d/ADH_and_ALDH_regulatory_networks) and [genetic_regulation_in_COPD](https://github.com/Genome3d/genetic_regulation_in_COPD).
 
 🌹  My online resume is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/)
 
-🔥  I’m learning Chinese language and AI.
+🔥  I’m currently learning Chinese language and AI.
 
 😈  Fun fact: my friends call me Killer, because sometimes I crash servers when analyzing big data.
 
