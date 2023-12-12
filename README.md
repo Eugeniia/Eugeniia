@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 Thanks for visiting my profile!</h1>
-<h3 align="center">I'm Evgeniia, a Postdoctoral Research Fellow at Liggins Institute, University of Auckland, New Zealand!</h3>
+<h1 align="center">Hi 👋 I'm Evgeniia Golovina, PhD</h1>
+<h3 align="center">Health Scientist | Data Science Enthusiast | Mentor</h3>
 
 😎  Currently I'm developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occurring traits.
 
