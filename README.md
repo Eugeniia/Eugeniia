@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Evgeniia</h1>
 <h3 align="center">I'm a Postdoctoral Research Fellow at Liggins Institute, University of Auckland, New Zealand!</h3>
 
-- 😎 I'm currently doing research in Justin O’Sullivan’s “Genomics and System Biology” lab group and developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occurring traits.
+- 😎  I'm currently doing research in Justin O’Sullivan’s “Genomics and System Biology” lab group and developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occurring traits.
 
-- 🙏 Check out my research projects: [psychiatric_and_cognitive_multimorbidities](https://github.com/Genome3d/psychiatric_and_cognitive_multimorbidities), [alcohol-dependence](https://github.com/Genome3d/alcohol-dependence), [genetic_regulation_in_ASD](https://github.com/Genome3d/genetic_regulation_in_ASD) and [genetic_regulation_in_COPD](https://github.com/Genome3d/genetic_regulation_in_COPD).
+- 🙏  Check out my research projects: [psychiatric_and_cognitive_multimorbidities](https://github.com/Genome3d/psychiatric_and_cognitive_multimorbidities), [alcohol-dependence](https://github.com/Genome3d/alcohol-dependence), [genetic_regulation_in_ASD](https://github.com/Genome3d/genetic_regulation_in_ASD) and [genetic_regulation_in_COPD](https://github.com/Genome3d/genetic_regulation_in_COPD).
 
-- 🌹 My online resume is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/)
+- 🌹  My online resume is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/)
 
-- 🔥 I’m currently learning Chinese language and AI.
+- 🔥  I’m currently learning Chinese language and AI.
 
-- 😈 Fun fact: my friends call me Killer, because sometimes I crash servers when analyzing big data.
+- 😈  Fun fact: my friends call me Killer, because sometimes I crash servers when analyzing big data.
 
-- 🧡 The best ways to reach me out: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [Github](https://github.com/Eugeniia), [Twitter](https://twitter.com/FoffaJn), [ResearchGate](https://www.researchgate.net/profile/Evgeniia_Golovina2), [Google Scholar](https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1)
+- 🧡  The best ways to reach me: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [Github](https://github.com/Eugeniia), [Twitter](https://twitter.com/FoffaJn), [ResearchGate](https://www.researchgate.net/profile/Evgeniia_Golovina2), [Google Scholar](https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1)
 
 
 <!--
