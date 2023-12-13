@@ -7,7 +7,7 @@
 
 🌹  My online resume is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/).
 
-🔥  I’m currently learning Chinese language and AI.
+🔥  I’m currently learning Chinese language, GO game, and Artificial Intelligence.
 
 😈  Fun fact: my friends call me Killer, because sometimes I crash servers when analyzing big data.
 
