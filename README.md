@@ -9,8 +9,6 @@
 
 🔥  I’m currently learning Chinese language, GO game, and Artificial Intelligence.
 
-😈  Fun fact: my friends call me Killer, because sometimes I crash servers when analyzing big data.
-
 🧡  The best ways to reach me: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [Github](https://github.com/Eugeniia), [Twitter](https://twitter.com/FoffaJn), [ResearchGate](https://www.researchgate.net/profile/Evgeniia_Golovina2), [Google Scholar](https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1), [Instagram](https://www.instagram.com/jnfoffa/).
 
 
