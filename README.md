@@ -9,7 +9,7 @@
 
 🔥  I’m currently learning Chinese language, GO game, and Artificial Intelligence.
 
-🧡  The best ways to reach me: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [Github](https://github.com/Eugeniia), [Twitter](https://twitter.com/FoffaJn), [ResearchGate](https://www.researchgate.net/profile/Evgeniia_Golovina2), [Google Scholar](https://scholar.google.ru/citations?user=cR7t9_8AAAAJ&hl=en&authuser=1), [Instagram](https://www.instagram.com/jnfoffa/).
+🧡  The best ways to reach me: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [GitHub](https://github.com/Eugeniia), [X](https://twitter.com/FoffaJn) or [Instagram](https://www.instagram.com/jnfoffa/).
 
 
 <!--
