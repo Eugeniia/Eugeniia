@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋 I'm Evgeniia Golovina</h1>
 <h3 align="center">Data & AI Enthusiast | Health Scientist | Mentor</h3>
 
-😎  Currently I'm developing a Machine Learning approach to predict an individual’s predisposition to chronic obstructive pulmonary disease and co-occurring traits.
+😎  Currently I'm working as a Copmutational Scientist at [HPCNow!](https://hpcnow.com/)
 
 🙏  Check out my research projects: [psychiatric_and_cognitive_multimorbidities](https://github.com/Genome3d/psychiatric_and_cognitive_multimorbidities), [alcohol-dependence](https://github.com/Genome3d/alcohol-dependence), [genetic_regulation_in_ASD](https://github.com/Genome3d/genetic_regulation_in_ASD), [ADH_and_ALDH_regulatory_networks](https://github.com/Genome3d/ADH_and_ALDH_regulatory_networks) and [genetic_regulation_in_COPD](https://github.com/Genome3d/genetic_regulation_in_COPD).
 
 🌹  My online resume is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/).
 
-🔥  I’m currently learning Chinese language, GO game, and Artificial Intelligence.
+🔥  I’m learning Chinese language, GO game, and interested in application of Machine Learning & Artificial Intelligence in real life.
 
-🧡  The best ways to reach me: Jn.Golovina@gmail.com, [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [GitHub](https://github.com/Eugeniia), [X](https://twitter.com/FoffaJn) or [Instagram](https://www.instagram.com/jnfoffa/).
+🧡  The best ways to reach me: evgeniia.golovina@hpcnow.com, [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [GitHub](https://github.com/Eugeniia) or [Instagram](https://www.instagram.com/jnfoffa/).
 
 
 <!--
