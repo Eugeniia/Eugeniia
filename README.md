@@ -7,7 +7,7 @@
 
 🌹  My online resume is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/).
 
-🔥  I’m learning Chinese, practicing GO game, and interested in application of Machine Learning & Artificial Intelligence in real life.
+🔥  I’m learning Chinese, practicing GO game, and interested in Machine Learning & Artificial Intelligence.
 
 🧡  The best ways to reach me out: evgeniia.golovina@hpcnow.com, [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [GitHub](https://github.com/Eugeniia) or [Instagram](https://www.instagram.com/jnfoffa/).
 
