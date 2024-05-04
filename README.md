@@ -7,7 +7,9 @@
 
 🔥  When I have free time I’m learning Chinese, practicing GO game, and studying Machine Learning & Artificial Intelligence.
 
-🌹  My online resume is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/).
+<!--
+🌹  My online resume-portfolio is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/).
+-->
 
 📧  To stay in touch use: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [GitHub](https://github.com/Eugeniia), [X](https://twitter.com/FoffaJn) or [Instagram](https://www.instagram.com/jnfoffa/).
 
