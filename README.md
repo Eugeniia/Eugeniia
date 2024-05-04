@@ -3,7 +3,7 @@
 
 😎  Currently I'm working as a Computational Scientist at [HPCNow!](https://hpcnow.com/).
 
-🧡  Also, I'm a Business Mentor at the [University of Auckland](https://www.auckland.ac.nz/en/business.html) and a Data Visualization Mentor at [Data Visualization Society](https://www.datavisualizationsociety.org/).
+🧡  Also, I'm a Business Mentor at the [UoA Business School](https://www.auckland.ac.nz/en/business.html) and a Data Visualization Mentor at [Data Visualization Society](https://www.datavisualizationsociety.org/).
 
 🔥  When I have free time I’m learning Chinese, practicing GO game, and studying Machine Learning & Artificial Intelligence.
 
