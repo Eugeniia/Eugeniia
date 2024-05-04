@@ -15,7 +15,7 @@ Thank you for visiting my profile!
 🌹  My online resume & portfolio is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/).
 -->
 
-📧  To stay in touch use: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [GitHub](https://github.com/Eugeniia), [X](https://twitter.com/FoffaJn) or [Instagram](https://www.instagram.com/jnfoffa/).
+📧  To stay in touch use: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [GitHub](https://github.com/Eugeniia) or [X](https://twitter.com/FoffaJn).
 
 
 <!--
