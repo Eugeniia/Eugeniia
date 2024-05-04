@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋 I'm Evgeniia Golovina</h1>
-<h3 align="center">Data & AI Enthusiast | Health Scientist | Mentor</h3>
+<h3 align="center">Computational Scientist | Health Researcher | Mentor</h3>
 
-😎  Currently I'm working as a Copmutational Scientist at [HPCNow!](https://hpcnow.com/)
+😎  Currently I'm working as a Computational Scientist at [HPCNow!](https://hpcnow.com/).
 
-🙏  Check out my research projects: [psychiatric_and_cognitive_multimorbidities](https://github.com/Genome3d/psychiatric_and_cognitive_multimorbidities), [alcohol-dependence](https://github.com/Genome3d/alcohol-dependence), [genetic_regulation_in_ASD](https://github.com/Genome3d/genetic_regulation_in_ASD), [ADH_and_ALDH_regulatory_networks](https://github.com/Genome3d/ADH_and_ALDH_regulatory_networks) and [genetic_regulation_in_COPD](https://github.com/Genome3d/genetic_regulation_in_COPD).
+🧡  Also, I'm a Business Mentor at the [University of Auckland](https://www.auckland.ac.nz/en/business.html) and a Data Visualization Mentor at [Data Visualization Society](https://www.datavisualizationsociety.org/).
+
+🔥  When I have free time I’m learning Chinese, practicing GO game, and studying Machine Learning & Artificial Intelligence.
 
 🌹  My online resume is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/).
 
-🔥  I’m learning Chinese, practicing GO game, and interested in Machine Learning & Artificial Intelligence.
-
-🧡  The best ways to reach me out: evgeniia.golovina@hpcnow.com, [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [GitHub](https://github.com/Eugeniia) or [Instagram](https://www.instagram.com/jnfoffa/).
+📧  To stay in touch use: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [GitHub](https://github.com/Eugeniia), [X](https://twitter.com/FoffaJn) or [Instagram](https://www.instagram.com/jnfoffa/).
 
 
 <!--
