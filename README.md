@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋 I'm Evgeniia Golovina</h1>
 <h3 align="center">Computational Scientist | Health Researcher | Mentor</h3>
 
+Thank you for visiting my profile!
+
 👩🏻‍💻  Currently I'm working as a Computational Scientist at [HPCNow!](https://hpcnow.com/).
 
-😎  Also, I'm a Business Mentor at the [UoA Business School](https://www.auckland.ac.nz/en/business.html) and a Data Visualization Mentor at [Data Visualization Society](https://www.datavisualizationsociety.org/).
+😎  Also, I'm a Business Mentor at the [UoA Business School](https://www.auckland.ac.nz/en/business.html) and a Data Visualisation Mentor at [Data Visualisation Society](https://www.datavisualizationsociety.org/).
 
 🧡  I'm passionate about Health Science, and I agree with Arkady and Boris Strugatsky that "the goal of science is human happiness" (“Monday Starts on Saturday” is my favorite book).
 
-🔥  When I have free time I’m learning Chinese and Spanish, practicing GO game, or studying Machine Learning & Artificial Intelligence.
+🔥  When I have free time I’m learning Chinese and Spanish, practising GO game, or studying Machine Learning & Artificial Intelligence.
 
 <!--
 🌹  My online resume & portfolio is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/).
