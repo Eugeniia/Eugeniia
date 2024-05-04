@@ -5,7 +5,7 @@
 
 🧡  Also, I'm a Business Mentor at the [UoA Business School](https://www.auckland.ac.nz/en/business.html) and a Data Visualization Mentor at [Data Visualization Society](https://www.datavisualizationsociety.org/).
 
-🔥  When I have free time I’m learning Chinese, practicing GO game, and studying Machine Learning & Artificial Intelligence.
+🔥  When I have free time I’m learning Chinese and Spanish, practicing GO game, or studying Machine Learning & Artificial Intelligence.
 
 <!--
 🌹  My online resume-portfolio is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/).
