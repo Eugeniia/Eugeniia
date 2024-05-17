@@ -11,7 +11,7 @@ Thank you for visiting my profile! Here is what you need to know about me:
 
 😎  I'm a Business Mentor at the [UoA Business School](https://www.auckland.ac.nz/en/business.html) and a Data Visualisation Mentor at [Data Visualisation Society](https://www.datavisualizationsociety.org/).
 
-📖  I agree with Arkady and Boris Strugatsky that "the goal of science is human happiness" (“Monday Starts on Saturday” is my favourite book).
+📖  I agree that "the goal of science is human happiness" (“Monday Starts on Saturday” Arkady and Boris Strugatsky).
 
 🔥  When I have free time I’m learning Chinese and Spanish, practising GO game, or studying Machine Learning & Artificial Intelligence.
 
