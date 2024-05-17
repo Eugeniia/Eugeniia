@@ -1,21 +1,26 @@
 <h1 align="center">Hi 👋 I'm Evgeniia Golovina</h1>
 <h3 align="center">Computational Scientist | Health Researcher | Mentor</h3>
 
-Thank you for visiting my profile!
+Thank you for visiting my profile! Here is what you need to know about me:
 
-👩🏻‍💻  Currently I'm working as a Computational Scientist at [HPCNow!](https://hpcnow.com/).
+🧡  I have three big passions: Data/Information, People and Health Sciences. 
 
-😎  Also, I'm a Business Mentor at the [UoA Business School](https://www.auckland.ac.nz/en/business.html) and a Data Visualisation Mentor at [Data Visualisation Society](https://www.datavisualizationsociety.org/).
+🤩  I'm fascinated by Supercomputing and High-Performance Computing technologies! 
 
-🧡  I'm passionate about three things: Data, People and Health Sciences. I'm fascinated by Supercomputing and High-Performance Computing technologies! And I agree with Arkady and Boris Strugatsky that "the goal of science is human happiness" (“Monday Starts on Saturday” is my favourite book).
+👩🏻‍💻  That's why I'm currently working as a Computational Scientist at [HPCNow!](https://hpcnow.com/).
+
+😎  I'm a Business Mentor at the [UoA Business School](https://www.auckland.ac.nz/en/business.html) and a Data Visualisation Mentor at [Data Visualisation Society](https://www.datavisualizationsociety.org/).
+
+📖  I agree with Arkady and Boris Strugatsky that "the goal of science is human happiness" (“Monday Starts on Saturday” is my favourite book).
 
 🔥  When I have free time I’m learning Chinese and Spanish, practising GO game, or studying Machine Learning & Artificial Intelligence.
+
+📧  To stay in touch use: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [GitHub](https://github.com/Eugeniia) or [X](https://twitter.com/FoffaJn).
+
 
 <!--
 🌹  My online resume & portfolio is available at [evgeniiagolovina.ac.nz](https://www.evgeniiagolovina.ac.nz/).
 -->
-
-📧  To stay in touch use: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [GitHub](https://github.com/Eugeniia) or [X](https://twitter.com/FoffaJn).
 
 
 <!--
