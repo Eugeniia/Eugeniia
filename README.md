@@ -7,7 +7,7 @@ Thank you for visiting my profile! Here is what you need to know about me:
 
 🤩  I'm fascinated by Supercomputing and High-Performance Computing technologies! 
 
-👩🏻‍💻  That's why I'm currently working as a Computational Scientist at [HPCNow!](https://hpcnow.com/).
+👩🏻‍💻  And I'm currently working as a Computational Scientist at [HPCNow!](https://hpcnow.com/).
 
 😎  I'm a Business Mentor at the [UoA Business School](https://www.auckland.ac.nz/en/business.html) and a Data Visualisation Mentor at [Data Visualisation Society](https://www.datavisualizationsociety.org/).
 
