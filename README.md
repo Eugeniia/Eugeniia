@@ -3,13 +3,13 @@
 
 Thank you for visiting my profile! Here is what you need to know about me:
 
-🧡  I have three big passions: Data/Information, People and Health Sciences. 
+🧡  I have four big passions: Technology & Innovation, Data, People and Health Sciences. 
 
-🤩  I'm fascinated by Supercomputing and High-Performance Computing technologies! 
+🤩  I'm fascinated by High-Performance Computing, Supercomputing and Quantum Computing technologies!  
 
 👩🏻‍💻  And I'm currently working as a Computational Scientist at [Do IT Now](https://hpcnow.com/](https://www.doitnowgroup.com/ ).
 
-😎  I'm a Business Mentor at the [UoA Business School](https://www.auckland.ac.nz/en/business.html) and a Data Visualisation Mentor at [Data Visualisation Society](https://www.datavisualizationsociety.org/).
+😎  I'm involved in mentoring programmes at the UoA Business School, UoA Centre for Innovation and Entrepreneurship, Data Visualisation Society, Women in High-Performance Computing (WHPC) organization and Women in HealthTech (WiHT) collaborative group.
 
 📖  I agree that "the goal of science is human happiness" (“Monday Starts on Saturday” by Arkady and Boris Strugatsky).
 
