@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Evgeniia Golovina</h1>
+<h1 align="center">Hi 👋 I'm Evgeniia Golovina, PhD</h1>
 <h3 align="center">Computational Scientist | Health Researcher | Mentor</h3>
 
 Thank you for visiting my profile! Here is what you need to know about me:
@@ -13,7 +13,7 @@ Thank you for visiting my profile! Here is what you need to know about me:
 
 📖  I agree that "the goal of science is human happiness" (“Monday Starts on Saturday” by Arkady and Boris Strugatsky).
 
-🔥  When I have free time I’m learning Chinese and Spanish, practising GO game, practicing hot yoga & hot pilates, or studying Machine Learning & Artificial Intelligence.
+🔥  When I have free time I’m learning Chinese and Spanish, practising GO game, practicing hot yoga & hot pilates, or studying different Innovative Technologies.
 
 📧  To stay in touch use: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [GitHub](https://github.com/Eugeniia) or [X](https://twitter.com/FoffaJn).
 
