@@ -15,7 +15,7 @@ Thank you for visiting my profile! Here is what you need to know about me:
 
 🔥  When I have free time I’m learning Chinese and Spanish, practising GO game, practicing hot yoga & hot pilates, or studying different Innovative Technologies.
 
-📧  To stay in touch use: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/), [GitHub](https://github.com/Eugeniia) or [X](https://twitter.com/FoffaJn).
+📧  To stay in touch use: [Linkedin](https://www.linkedin.com/in/evgeniiagolovina/) or [GitHub](https://github.com/Eugeniia).
 
 
 <!--
